@@ -1,0 +1,19 @@
+{
+  "notion_token": "now",
+  "parent_page_id": "2423a1d0826180549c3bd4fec8af6bff",
+  "whatsapp_group": "Teknik servis birimi •AYS",
+  "headless": false,
+  "session_path": "C:/projeler/whatsapp-notion-bot/whatsapp_session",
+  "target_date": "27.09.2025",
+  "silent_mode": false,
+  "whatsapp": {
+    "scan_interval": 5
+  },
+  "selenium": {
+    "implicit_wait": 10,
+    "window_size": [
+      1200,
+      800
+    ]
+  }
+}

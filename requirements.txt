@@ -1,0 +1,9 @@
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+notion-client>=2.2.1
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+typing-extensions>=4.8.0
+pillow>=10.0.0
+packaging>=23.0
+requests>=2.31.0
